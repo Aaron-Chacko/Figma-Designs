@@ -1,19 +1,29 @@
-# MIM Application
+# About Me - Figma Beginner Project
 
 ## Overview
-The MIM Application is a Student-Faculty resource-sharing application designed to provide information to Students enrolled in the MIM and their teachers about different courses, events, updates etc. while maintaining a user-friendly experience.
+This is a beginner-level design project created in Figma to practice and showcase my skills in user interface (UI) design. The project highlights my personal profile in a visually appealing format.
 
 ## Features
-- User authentication with secure login.
-- Intuitive UI designed for mobile users.
-- Multiple course, event, and module updates in real-time to keep the students updated.
+- **Profile Page**: Includes a short bio.
+- **Interests**: my interests
+- **Minimalistic Design**: Focuses on clean, modern aesthetics.
 
-## Technologies Used
-- **Frontend and Design:** Figma
-- **Backend:** React
+## Tools Used
+- **Design Tool**: Figma
 
-## Installation
-Follow these steps to run the application locally:
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/mim-application.git
+## Preview
+View the project on Figma:  
+[**Figma Design Link**](https://www.figma.com/proto/xvx52pJ2Rwf5ZgiuBmBlYv/Project1-design?node-id=0-1&t=j2TrviB780EHnZa4-1)
+
+## Goals I accomplished
+- Learnt the basics of layout, typography, and colour in Figma.
+- Experiment with alignment, spacing, and hierarchy in UI design.
+- Created a design having fun along the way.
+
+## Next Steps
+- Explore interactive components and prototyping in Figma.
+- Create more complex designs, including multi-page UI layouts.
+
+
+
+
