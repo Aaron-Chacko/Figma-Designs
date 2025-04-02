@@ -10,7 +10,6 @@ The MIM Application is a Student-Faculty resource-sharing application designed t
 
 ## Technologies Used
 - *Frontend and Design:* Figma
-- *Backend:* React
 
 ## Preview
 View the project on Figma:  
